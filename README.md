@@ -76,3 +76,7 @@ El documento [TFG_Beamer GANs NVives.pdf](TFG_Beamer_GANs_NVives.pdf) contiene e
 El directorio [code](code) contiene el código utilizado para la parte práctica del trabajo.
 
 El directorio [images](images) contiene las imágenes utilizadas en el trabajo.
+
+## Licencia
+
+Este proyecto está desarrollado bajo licencia [GNU General Public License v3.0.](LICENSE.md)
