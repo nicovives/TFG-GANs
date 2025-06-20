@@ -34,7 +34,7 @@ This study highlights the importance of GANs as generative models due to their r
 
 ## Índice
 
-1. [**Introducción**](#introducción)
+1. **Introducción**
 
 2. **Redes Neuronales**
     1. La unidad básica
@@ -42,29 +42,29 @@ This study highlights the importance of GANs as generative models due to their r
         1. Funciones de activación
     3. Backpropagation
 
-3. [**Redes Generativas Antagónicas**](#redes-generativas-antagónicas)
-    1. [Modelaje](#modelaje)
-    2. [Proceso de entrenamiento](#proceso-de-entrenamiento)
-    3. [Limitaciones y problemas en la práctica](#limitaciones-y-problemas-en-la-práctica)
-        1. [Desvanecimiento de Gradientes (*Vanishing gradients*)](#desvanecimiento-de-gradientes-vanishing-gradients)
-        2. [Colapso de modo (*Mode Collapse*)](#colapso-de-modo-mode-collapse)
-        3. [Soportes de Baja Dimensión](#soportes-de-baja-dimensión)
-    4. [Evolución de las GANs](#evolución-de-las-gans)
-        1. [DCGAN](#dcgan)
-        2. [StyleGAN](#stylegan)
-    5. [Aplicación y comparativa de las GANs frente a modelos actuales](#aplicación-y-comparativa-de-las-gans-frente-a-modelos-actuales)
+3. **Redes Generativas Antagónicas**
+    1. Modelaje
+    2. Proceso de entrenamiento
+    3. Limitaciones y problemas en la práctica
+        1. Desvanecimiento de Gradientes (*Vanishing gradients*)
+        2. Colapso de modo (*Mode Collapse*)
+        3. Soportes de Baja Dimensión
+    4. Evolución de las GANs
+        1. DCGAN
+        2. StyleGAN
+    5. Aplicación y comparativa de las GANs frente a modelos actuales
 
-4. [**Desarrollo práctico en python de una GAN**](#desarrollo-práctico-en-python-de-una-gan)
-    1. [Estructura de la DCGAN](#estructura-de-la-dcgan)
+4. **Desarrollo práctico en python de una GAN**
+    1. Estructura de la DCGAN
 
-5. [**Conclusión**](#conclusión)
+5. **Conclusión**
 
-6. [**Referencias**](#referencias)
+6. **Referencias**
 
-A. [**Detalles del desarrollo del trabajo**](#detalles-del-desarrollo-del-trabajo)
+A. **Detalles del desarrollo del trabajo**
 
-B. [**Definiciones y Proposiciones adicionales**](#definiciones-y-proposiciones-adicionales)
+B. **Definiciones y Proposiciones adicionales**
 
-C. [**Código Python utilizado**](#código-python-utilizado)
+C. **Código Python utilizado**
 
 
