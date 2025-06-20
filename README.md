@@ -36,11 +36,11 @@ This study highlights the importance of GANs as generative models due to their r
 
 1. [**Introducción**](#introducción)
 
-2. [**Redes Neuronales**](#redes-neuronales)
-    1. [La unidad básica](#la-unidad-básica)
-    2. [Redes neuronales](#redes-neuronales-1)
-        1. [Funciones de activación](#funciones-de-activación)
-    3. [Backpropagation](#backpropagation)
+2. **Redes Neuronales**
+    1. La unidad básica
+    2. Redes neuronales
+        1. Funciones de activación
+    3. Backpropagation
 
 3. [**Redes Generativas Antagónicas**](#redes-generativas-antagónicas)
     1. [Modelaje](#modelaje)
