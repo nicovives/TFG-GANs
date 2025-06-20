@@ -34,7 +34,7 @@ This study highlights the importance of GANs as generative models due to their r
 
 ## Índice
 
-1. [**Introducción**]
+1. [**Introducción**](#introducción)
 
 2. [**Redes Neuronales**](#redes-neuronales)
     1. [La unidad básica](#la-unidad-básica)
