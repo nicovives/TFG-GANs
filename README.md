@@ -69,9 +69,9 @@ C. **Código Python utilizado**
 
 ## Documentos
 
-El documento [Fundamentos matemáticos y aplicaciones prácitcas de las Redes Generativas Antagónicas (GANs) TFG NVives.pdf](Fundamentos matemáticos y aplicaciones prácitcas de las Redes Generativas Antagónicas (GANs) TFG NVives.pdf) contiene la memoria del trabajo.
+El documento [Fundamentos matemáticos y aplicaciones prácitcas de las Redes Generativas Antagónicas (GANs) TFG NVives.pdf](Fundamentos_matemáticos_y_aplicaciones_prácitcas_de_las_Redes_Generativas_Antagónicas_(GANs)_TFG_NVives.pdf) contiene la memoria del trabajo.
 
-El documento [TFG_Beamer GANs NVives.pdf](TFG_Beamer GANs NVives.pdf) contiene el beamer para la defensa del trabajo.
+El documento [TFG_Beamer GANs NVives.pdf](TFG_Beamer_GANs_NVives.pdf) contiene el beamer para la defensa del trabajo.
 
 El directorio [code](code) contiene el código utilizado para la parte práctica del trabajo.
 
