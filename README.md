@@ -34,36 +34,37 @@ This study highlights the importance of GANs as generative models due to their r
 
 ## Índice
 
-1. **Introducción**
+1. [**Introducción**](Introducción)
 
-2. **Redes Neuronales**
-    2.1. La unidad básica  
-    2.2. Redes neuronales  
-        2.2.1. Funciones de activación  
-    2.3. Backpropagation
+2. [**Redes Neuronales**](#redes-neuronales)
+    1. [La unidad básica](#la-unidad-básica)
+    2. [Redes neuronales](#redes-neuronales-1)
+        1. [Funciones de activación](#funciones-de-activación)
+    3. [Backpropagation](#backpropagation)
 
-3. **Redes Generativas Antagónicas**
-    3.1. Modelaje  
-    3.2. Proceso de entrenamiento  
-    3.3. Limitaciones y problemas en la práctica  
-        3.3.1. Desvanecimiento de Gradientes (*Vanishing gradients*)  
-        3.3.2. Colapso de modo (*Mode Collapse*)  
-        3.3.3. Soportes de Baja Dimensión  
-    3.4. Evolución de las GANs  
-        3.4.1. DCGAN  
-        3.4.2. StyleGAN  
-    3.5. Aplicación y comparativa de las GANs frente a modelos actuales
+3. [**Redes Generativas Antagónicas**](#redes-generativas-antagónicas)
+    1. [Modelaje](#modelaje)
+    2. [Proceso de entrenamiento](#proceso-de-entrenamiento)
+    3. [Limitaciones y problemas en la práctica](#limitaciones-y-problemas-en-la-práctica)
+        1. [Desvanecimiento de Gradientes (*Vanishing gradients*)](#desvanecimiento-de-gradientes-vanishing-gradients)
+        2. [Colapso de modo (*Mode Collapse*)](#colapso-de-modo-mode-collapse)
+        3. [Soportes de Baja Dimensión](#soportes-de-baja-dimensión)
+    4. [Evolución de las GANs](#evolución-de-las-gans)
+        1. [DCGAN](#dcgan)
+        2. [StyleGAN](#stylegan)
+    5. [Aplicación y comparativa de las GANs frente a modelos actuales](#aplicación-y-comparativa-de-las-gans-frente-a-modelos-actuales)
 
-4. **Desarrollo práctico en python de una GAN**
-    4.1. Estructura de la DCGAN
+4. [**Desarrollo práctico en python de una GAN**](#desarrollo-práctico-en-python-de-una-gan)
+    1. [Estructura de la DCGAN](#estructura-de-la-dcgan)
 
-5. **Conclusión**
+5. [**Conclusión**](#conclusión)
 
-**Referencias**
+6. [**Referencias**](#referencias)
 
-A. **Detalles del desarrollo del trabajo**
+A. [**Detalles del desarrollo del trabajo**](#detalles-del-desarrollo-del-trabajo)
 
-B. **Definiciones y Proposiciones adicionales**
+B. [**Definiciones y Proposiciones adicionales**](#definiciones-y-proposiciones-adicionales)
 
-C. **Código Python utilizado**
+C. [**Código Python utilizado**](#código-python-utilizado)
+
 
