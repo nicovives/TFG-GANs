@@ -1,8 +1,16 @@
 # TFG-GANs
 
-Repositorio para mi Trabajo Fin de Grado: **Fundamentos Matemáticos y Aplicaciones Prácticas de las Redes Generativas Antagónicas (GANs)**. Se trata de un TFG del Grado en Matemáticas por la Universidad de Alicante.
+Trabajo Final de Grado: **Fundamentos Matemáticos y Aplicaciones Prácticas de las Redes Generativas Antagónicas (GANs)**. Trabajo Final del Grado en Matemáticas por la Universidad de Alicante.
 
+Autor: Nicolás Vives Vicente
 Tutor: Julen Rebollo Múgica
+
+---
+
+Bachelor's Thesis: **Mathematical Foundations and Practical Applications of Generative Adversarial Networks (GANs)**. Bachelor's Thesis for the Bachelor's Degree in Mathematics at the University of Alicante.
+
+Author: Nicolás Vives Vicente
+Supervisor: Julen Rebollo Múgica
 
 ## Resumen
 
@@ -18,6 +26,8 @@ Este trabajo pone de manifiesto la importancia de las GANs como modelos generati
 
 **Palabras clave**: GANs (Redes Generativas Antagónicas), Redes Neuronales, Colapso de Modo, Desvanecimiento de Gradientes.
 
+---
+
 ## Abstract
 
 This work presents an in-depth study of Generative Adversarial Networks (GANs), one of the most innovative architectures in the field of deep learning. GANs, introduced by Ian Goodfellow in 2014, consist of two neural networks engaged in a minimax game: a generator, responsible for producing synthetic data, and a discriminator, which attempts to distinguish between real and generated data. We study how, through a joint and competitive training process, we can obtain both the best possible generating network and the best possible discriminating network, reaching a Nash equilibrium. This structure has shown a remarkable ability to learn complex distributions and generate highly realistic data, making it especially relevant in areas such as image, audio, and video generation.
@@ -31,6 +41,8 @@ In addition, a comparison is made between GANs and other state-of-the-art genera
 This study highlights the importance of GANs as generative models due to their remarkable speed in data generation, making them a very useful tool in applications that demand computational efficiency. Although there are currently models that can surpass GANs in output quality, they remain a key reference due to their ability to learn complex distributions quickly and effectively.
 
 **Key words**: GANs (Generative Adversarial Networks), Neural Networks, Mode Collapse, Vanishing Gradients.
+
+---
 
 ## Índice
 
@@ -76,6 +88,62 @@ El documento [TFG_Beamer GANs NVives.pdf](TFG_Beamer_GANs_NVives.pdf) contiene e
 El directorio [code](code) contiene el código utilizado para la parte práctica del trabajo.
 
 El directorio [images](images) contiene las imágenes utilizadas en el trabajo.
+
+---
+
+## Table of Contents
+
+1. **Introduction**
+2. **Neural Networks**
+1. The basic unit
+2. Neural networks
+1. Activation functions
+
+
+3. Backpropagation
+
+
+3. **Generative Adversarial Networks**
+1. Modeling
+2. Training process
+3. Limitations and problems in practice
+1. Vanishing Gradients (*Vanishing gradients*)
+2. Mode Collapse (*Mode Collapse*)
+3. Low-Dimensional Supports
+
+
+4. Evolution of GANs
+1. DCGAN
+2. StyleGAN
+
+
+5. Application and comparison of GANs against current models
+
+
+4. **Practical development of a GAN in Python**
+1. DCGAN structure
+
+
+5. **Conclusion**
+6. **References**
+
+A. **Details of the work's development**
+
+B. **Additional Definitions and Propositions**
+
+C. **Python code used**
+
+## Documents
+
+The document [Fundamentos matemáticos y aplicaciones prácitcas de las Redes Generativas Antagónicas (GANs) TFG NVives.pdf](https://www.google.com/search?q=Fundamentos_matem%25C3%25A1ticos_y_aplicaciones_pr%25C3%25A1citcas_de_las_Redes_Generativas_Antag%25C3%25B3nicas_(GANs)_TFG_NVives.pdf&utm_source=gemini) contains the thesis report.
+
+The document [TFG_Beamer GANs NVives.pdf](https://www.google.com/search?q=TFG_Beamer_GANs_NVives.pdf&utm_source=gemini) contains the presentation slides for the thesis defense.
+
+The [code](https://www.google.com/search?q=code&utm_source=gemini) directory contains the code used for the practical part of the work.
+
+The [images](https://www.google.com/search?q=images&utm_source=gemini) directory contains the images used in the work.
+
+---
 
 ## Licencia
 
