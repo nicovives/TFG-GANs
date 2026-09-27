@@ -94,37 +94,31 @@ El directorio [images](images) contiene las imágenes utilizadas en el trabajo.
 ## Table of Contents
 
 1. **Introduction**
+
 2. **Neural Networks**
-1. The basic unit
-2. Neural networks
-1. Activation functions
-
-
-3. Backpropagation
+    1. The basic unit
+    2. Neural networks
+        1. Activation functions
+    3. Backpropagation
 
 
 3. **Generative Adversarial Networks**
-1. Modeling
-2. Training process
-3. Limitations and problems in practice
-1. Vanishing Gradients (*Vanishing gradients*)
-2. Mode Collapse (*Mode Collapse*)
-3. Low-Dimensional Supports
-
-
-4. Evolution of GANs
-1. DCGAN
-2. StyleGAN
-
-
-5. Application and comparison of GANs against current models
-
+    1. Modeling
+    2. Training process
+    3. Limitations and problems in practice
+        1. Vanishing Gradients (*Vanishing gradients*)
+        2. Mode Collapse (*Mode Collapse*)
+        3. Low-Dimensional Supports
+    4. Evolution of GANs
+        1. DCGAN
+        2. StyleGAN
+    5. Application and comparison of GANs against current models
 
 4. **Practical development of a GAN in Python**
-1. DCGAN structure
-
+    1. DCGAN structure
 
 5. **Conclusion**
+   
 6. **References**
 
 A. **Details of the work's development**
